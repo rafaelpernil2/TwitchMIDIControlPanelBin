@@ -5,4 +5,4 @@
 
 [Linux](https://github.com/rafaelpernil2/TwitchMIDIControlPanelBin/releases/download/v1.0.0/TwitchMIDIControlPanel.AppImage)
 
-[MacOS](https://github.com/rafaelpernil2/TwitchMIDIControlPanelBin/releases/download/v1.0.0/TwitchMIDIControlPanel.dmg)
+[MacOS](https://github.com/rafaelpernil2/TwitchMIDIControlPanelBin/releases/latest/download/TwitchMIDIControlPanel.dmg)
