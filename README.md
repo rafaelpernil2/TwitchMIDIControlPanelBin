@@ -2,7 +2,7 @@
 
 This repository contains the binaries of TwitchMIDI Control Panel
 
-> You NEED a TwitchMIDI+ license to use this software. Go to [https://store.rafaelpernil.com/l/twitchmidiplus](https://store.rafaelpernil.com/l/twitchmidiplus) to purchase one.
+> You NEED a TwitchMIDI+ license to use this software. Ask via info@twitchmidi.com
 
 ![](https://feranern.sirv.com/Images/twitchmidicontrolpanel.png)
 
