@@ -10,8 +10,8 @@ This repository contains the binaries of TwitchMIDI Control Panel
 
 Obtain the appropiate version for your operating system here!
 
-[Windows](https://github.com/rafaelpernil2/TwitchMIDIControlPanelBin/releases/download/v3.0.0/TwitchMIDIControlPanel.exe)
+[Windows](https://github.com/rafaelpernil2/TwitchMIDIControlPanelBin/releases/download/v3.0.2/TwitchMIDIControlPanel.exe)
 
-[Linux](https://github.com/rafaelpernil2/TwitchMIDIControlPanelBin/releases/download/v3.0.0/TwitchMIDIControlPanel.AppImage)
+[Linux](https://github.com/rafaelpernil2/TwitchMIDIControlPanelBin/releases/download/v3.0.2/TwitchMIDIControlPanel.AppImage)
 
-[MacOS](https://github.com/rafaelpernil2/TwitchMIDIControlPanelBin/releases/download/v3.0.0/TwitchMIDIControlPanel.dmg)
+[MacOS](https://github.com/rafaelpernil2/TwitchMIDIControlPanelBin/releases/download/v3.0.2/TwitchMIDIControlPanel.dmg)
