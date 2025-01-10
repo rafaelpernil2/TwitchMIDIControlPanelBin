@@ -1,4 +1,4 @@
-# TwitchMIDIControlPanelBin
+# TwitchMIDI+ Control Panel
 
 This repository contains the binaries of TwitchMIDI Control Panel
 
